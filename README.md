@@ -18,7 +18,7 @@ Je suis un développeur web passionné par la création d'applications web intui
 - **Contrôle de version** : Git, GitHub
 
 - <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,swiftUI,git&theme=dark" alt="Technologies & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,swift,git&theme=dark" alt="Technologies & Tools" />
 </p>
 
 ---

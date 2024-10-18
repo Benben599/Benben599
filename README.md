@@ -5,6 +5,10 @@ Je suis un développeur web passionné par la création d'applications web intui
 
 ---
 
+![Benben599's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benben599&show_icons=true&theme=default)
+
+---
+
 #### 🛠️ **Technologies et langages que j'utilise :**
 - **Frontend** : HTML, CSS, JavaScript (Vanilla JS, manipulation du DOM)
 - **Frameworks de style** : Bootstrap, Tailwind CSS

@@ -17,7 +17,7 @@ Je suis un développeur web passionné par la création d'applications web intui
 - **Mobile** : Swift et SwiftUI pour le développement d'applications iOS
 - **Contrôle de version** : Git, GitHub
 
-- <p align="center">
+ <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,swift,git&theme=dark" alt="Technologies & Tools" />
 </p>
 
